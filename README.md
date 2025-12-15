@@ -44,10 +44,17 @@
         ⚛️ Cloud Native DevOps (AWS/Docker)<br/>
         🧠 HCI & UX Psychology
       </p>
-    </td>
-    <td width="40%" align="center">
-     <img src="https://media.giphy.com/media/26tP7axeYc7T3b8KQ/giphy.gif" width="100%" style="border-radius: 10px;" alt="Holographic Earth"/>
-    </td>
+   <td width="40%" align="center">
+  <a href="https://app.spline.design/file/5bb8cf41-3906-44b7-a4b2-d627bdb9a875" target="_blank">
+    <img src="https://media.giphy.com/media/L1R1TVThqceK6M8dX/giphy.gif" width="100%" style="border-radius: 10px;" alt="Spline 3D Design"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://app.spline.design/file/5bb8cf41-3906-44b7-a4b2-d627bdb9a875" target="_blank">
+     <img src="https://img.shields.io/badge/🎨_Interact_in_3D-000000?style=for-the-badge&logo=spline&logoColor=white"/>
+  </a>
+</td>
   </tr>
 </table>
 
