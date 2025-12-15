@@ -1,157 +1,146 @@
-<!-- ========================= -->
-<!--   ATHARV NAVATRE README   -->
-<!-- ========================= -->
+<!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Hey 👋, I'm Atharv Navatre</h1>
-<h3 align="center">Frontend Architect • Backend Logic Engineer • AI Explorer</h3>
-
-<p align="center">
-  <i>Designing clean interfaces, engineering solid logic, and building the future with AI.</i>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Atharv+Navatre+👋;Frontend+Designer+%7C+Backend+Engineer;AI+%26+Future+Tech+Explorer;Building+Ideas+Into+Reality+🚀" />
+</h1>
 
 <p align="center">
-  <a href="mailto:atharvnavatre183@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/atharv-navatre-1201662b1/">💼 LinkedIn</a> •
-  <a href="https://x.com/AtharvNava39873">🐦 Twitter (X)</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m **Atharv Navatre**, a Computer Engineering undergraduate with a strong passion for **frontend engineering**, **backend system design**, and **AI-powered applications**.
+🎓 **Computer Engineering Undergraduate (B.E.)**  
+🎨 **Frontend Designer with Backend Logic Mastery**  
+🤖 **AI, LLMs & Autonomous Agents Enthusiast**  
 
-I enjoy working at the intersection of:
-- **Design & Engineering**
-- **Creativity & Logic**
-- **User Experience & System Performance**
+I’m someone who loves **designing elegant interfaces**, **engineering scalable systems**, and **experimenting with future-ready technologies**.  
+I believe **great products are born when creativity meets logic**.
 
-I believe great software is not just built — **it’s engineered with intent, clarity, and impact**.
-
----
-
-## 🧠 What I Specialize In
-
-### 🎨 Frontend Engineering
-- Crafting clean, modern, and responsive UIs
-- Strong focus on usability, accessibility, and performance
-- Translating complex ideas into simple user experiences
-
-### ⚙️ Backend Logic & Systems
-- Designing scalable APIs and backend workflows
-- Writing efficient, maintainable server-side logic
-- Integrating databases, authentication, and cloud services
-
-### 🤖 AI & Future Technologies
-- AI-powered applications & intelligent automation
-- LLM-based systems, AI agents, and smart workflows
-- Passionate about **ethical, human-centric AI**
+💡 Known among friends as the **“Idea Machine”** — always thinking, building, and improving.
 
 ---
 
-## 🎯 Collaboration & Vision
+## ⚡ What I Actually Do
 
-💡 I’m open to collaborating on:
-- Full-stack applications
-- AI-driven platforms
-- Innovative developer tools
-- Research-oriented or impact-focused tech projects
+🖌 **Frontend Engineering**
+- Craft clean, responsive, and animated UIs
+- Focus on accessibility & user experience
+- Love working with modern design systems
 
-I value:
-- **Focus**
-- **Innovation**
-- **Long-term thinking**
-- **Clean engineering practices**
+⚙️ **Backend Development**
+- Design scalable APIs & databases
+- Build efficient business logic
+- Authentication, authorization & integrations
+
+🤖 **AI & Future Tech**
+- AI chatbots, automation tools & agents
+- LLM-based applications & RAG systems
+- Exploring ethical & human-centric AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Interactive Zone (Yes, this README has fun too 😄)
+
+🎮 **Mini Games**
+- 🟦 Tetris (Coming Soon)
+- 🐍 Snake Game (Planned)
+- ♟ Chess Bot (AI-powered)
+
+📈 **Live Widgets**
+- Contribution heatmaps
+- Dynamic GitHub stats
+- Animated skill indicators
+
+---
+
+## 🛠️ Tech Arsenal
 
 ### 👨‍💻 Languages
 `Java` `JavaScript` `TypeScript` `Python` `C` `C++` `C#` `Rust`
 
-### 🌐 Frontend
-`HTML` `CSS` `React` `Next.js` `Vue.js` `Angular`  
-`Tailwind CSS` `Three.js` `WebGL` `React Native`
+### 🎨 Frontend
+`HTML` `CSS` `React` `Next.js` `Vue.js`  
+`Tailwind CSS` `Three.js` `WebGL` `Figma`
 
-### 🔧 Backend
+### ⚙️ Backend
 `Node.js` `Express.js` `NestJS`  
 `Django` `.NET` `REST APIs`
 
 ### 🧠 AI / ML
 `TensorFlow` `PyTorch` `LangChain`  
-`OpenAI APIs` `NumPy` `Pandas` `Keras`
+`OpenAI APIs` `NumPy` `Pandas`
 
 ### ☁️ Cloud & DevOps
-`AWS` `Google Cloud` `Azure`  
+`AWS` `Azure` `Google Cloud`  
 `Docker` `Firebase` `Netlify`
 
 ### 🧰 Tools
 `Git` `GitHub` `GitLab`  
-`Postman` `VS Code` `Jupyter Notebook`  
-`Figma` `Canva`
+`VS Code` `Postman` `Jupyter Notebook`
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **AI-Powered Complaint Triage System**  
+> Automatically categorizes, prioritizes & routes complaints using AI
+
+🔹 **AI Customer Support Chatbot**  
+> Built using GPT models with contextual understanding
+
+🔹 **Full-Stack E-Commerce Platform**  
+> Modern UI + secure backend architecture
+
+🔹 **Personal Portfolio Website**  
+> 3D animations, interactive sections & clean UX
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced **Large Language Models (LLMs)**
-- **Reinforcement Learning**
-- Cloud-native architectures & DevOps
-- UI/UX psychology & Human–Computer Interaction
+📌 Advanced **LLMs & Reinforcement Learning**  
+📌 **Cloud Architecture & DevOps Pipelines**  
+📌 **UI/UX Psychology & HCI Principles**
 
 ---
 
-## 🧪 Selected Projects
+## 🌍 Future Vision
 
-- 🤖 **AI-Powered Customer Support Chatbot**  
-  Intelligent conversation system using GPT-based models
-
-- 🛒 **Full-Stack E-Commerce Platform**  
-  React + Node.js with authentication, payments & admin dashboard
-
-- 🌐 **Personal Portfolio Website**  
-  Performance-focused, animated, and fully responsive
-
-> _More projects coming soon — building in public._
+🤖 **AI & Autonomous Agents will redefine software**  
+My mission is to **build ethical, scalable, and human-first AI systems** that solve real problems and create meaningful impact.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Atharv-navatre&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-navatre&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-navatre&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&row=1&column=6"/>
 </p>
 
 ---
 
-## 🔥 Top Contributions
+## 🤝 Let’s Connect
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Atharv-navatre&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> Friends call me the **“Idea Machine”** — I rarely stop thinking, optimizing, or imagining what’s next.
+📧 **Email:** atharvnavatre183@gmail.com  
+🐦 **Twitter/X:** https://x.com/AtharvNava39873  
+💼 **LinkedIn:** https://www.linkedin.com/in/atharv-navatre-1201662b1/  
+🌐 **Portfolio:** *In Progress*
 
 ---
 
@@ -163,12 +152,13 @@ I value:
 ---
 
 <p align="center">
-  <b>Let’s build something meaningful.</b><br/>
-  Open to ideas, collaboration, and deep tech conversations 🚀
-</p>
-
-<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Atharv-navatre&icon=3&color=7" />
 </p>
 
-<!-- Proudly crafted with intent, not templates -->
+<p align="center">
+  <b>🚀 Let’s build the future — one commit at a time.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
