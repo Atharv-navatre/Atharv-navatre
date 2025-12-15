@@ -1,12 +1,3 @@
-The reason those images are not showing is that the service hosting them (`herokuapp.com`) often goes down or hits usage limits.
-
-I have replaced the broken **Heroku** links with the newer, more stable **Demolab** servers. This will fix the "Streak Stats" instantly.
-
-Here is the **fixed, final version** of your README.
-
-### 📋 Copy and Paste this Code:
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Atharv%20Navatre&fontSize=80&fontAlignY=35&desc=Frontend%20Designer%20%7C%20Backend%20Engineer%20%7C%20AI%20Explorer&descAlignY=65&descAlign=50&animation=twinkling"/>
 </div>
@@ -127,7 +118,7 @@ Here is the **fixed, final version** of your README.
         <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="stats graph" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
       </td>
     </tr>
   </table>
@@ -155,4 +146,3 @@ Here is the **fixed, final version** of your README.
     <i>"Crafting the future, one commit at a time."</i>
   </p>
 </div>
-```
