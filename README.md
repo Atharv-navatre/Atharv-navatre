@@ -3,9 +3,7 @@
 </div>
 
 <h3 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Building+Tomorrow+With+Code+🚀;Designing+Interfaces+That+Feel+Alive+🎨;Architecting+Scalable+Systems+⚙️;Exploring+Agents+%26+Neural+Nets+🤖" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=800&color=35CE8D&center=true&vCenter=true&width=850&lines=Building+Tomorrow+With+Code+🚀;Designing+Interfaces+That+Feel+Alive+🎨;Architecting+Scalable+Systems+⚙️;Exploring+Agents+%26+Neural+Nets+🤖" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -18,7 +16,7 @@
   <a href="mailto:atharvnavatre183@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-3d-globe-link.vercel.app">
+  <a href="#">
      <img src="https://img.shields.io/badge/🚀_Launch_3D_Earth-212121?style=for-the-badge&logo=three.js&logoColor=white"/>
   </a>
 </div>
@@ -107,9 +105,11 @@
 
 ## 📊 Telemetry Data
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-navatre/Atharv-navatre/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
+<div align="center">
+  <img src="http://ghchart.rshah.org/35CE8D/Atharv-navatre" alt="Atharv's Github Chart" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <table>
@@ -128,11 +128,15 @@
 
 ---
 
+## 🏆 Achievements
+
 <div align="center">
-  <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&no-frame=true&row=1&column=6&margin-w=15"/>
-  
-  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" />
+</div>
+
+---
+
+<div align="center">
   
   <p>
     <img src="https://visitcount.itsvg.in/api?id=Atharv-navatre&icon=5&color=6" />
