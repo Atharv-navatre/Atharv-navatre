@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=2500&pause=800&color=35CE8D&center=true&vCenter=true&width=850&lines=Building+Tomorrow+With+Code+🚀;Designing+Interfaces+That+Feel+Alive+🎨;Architecting+Scalable+Systems+⚙️;Exploring+Agents+%26+Neural+Nets+🤖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=800&color=35CE8D&center=true&vCenter=true&width=850&lines=Building+Tomorrow+With+Code+🚀;Designing+Interfaces+That+Feel+Alive+🎨;Architecting+Scalable+Systems+⚙️;Exploring+Agents+%26+Neural+Nets+🤖" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -16,19 +16,40 @@
   <a href="mailto:atharvnavatre183@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/🚀_Launch_3D_Earth-212121?style=for-the-badge&logo=three.js&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 ## 🧬 The Core Logic
 
-> 💡 **"The Idea Machine"** — Architecting the gap between imagination and implementation.
-
-I am a **Computer Engineering Student** and a digital artisan. I don't just write code; I craft ecosystems where **Design meets Logic**. My work bridges the gap between fluid, interactive frontends and robust, AI-driven backends.
-
-* 🔭 **Currently Working on:** Advanced Agentic AI & RAG Architectures
-* 🌱 **Learning:** Cloud Native DevOps (AWS/Docker) & UX Psychology
-* 🚀 **Goal:** To build systems that feel alive.
+<table>
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a <b>Computer Engineering Student</b> with the mindset of a digital artisan. I don't just write code; I craft ecosystems where <b>Design meets Logic</b>.
+      </p>
+      <p>
+        My work bridges the gap between <b>fluid, interactive frontends</b> and <b>robust, AI-driven backends</b>. Whether it's rendering 3D worlds in the browser or architecting autonomous agents, I am obsessed with pushing the boundaries of what web technology can do.
+      </p>
+      <p>
+        💡 <b>Nicknamed the "Idea Machine"</b> — because I believe the only limit to software is imagination.
+      </p>
+      <p>
+        <b>Currently Learning:</b><br/>
+        🔭 Advanced LLMs & RAG Architectures<br/>
+        ⚛️ Cloud Native DevOps (AWS/Docker)<br/>
+        🧠 HCI & UX Psychology
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,7 +118,7 @@ I am a **Computer Engineering Student** and a digital artisan. I don't just writ
         <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="stats graph" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
       </td>
     </tr>
   </table>
