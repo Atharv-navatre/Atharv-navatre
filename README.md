@@ -1,124 +1,108 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ================= HERO ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Atharv+Navatre+👋;Frontend+Designer+%7C+Backend+Engineer;AI+%26+Future+Tech+Explorer;Building+Ideas+Into+Reality+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Atharv+Navatre;Frontend+Designer+%7C+Backend+Engineer;AI+%26+Future+Tech+Explorer;Building+Tomorrow+With+Code+🚀" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
+
+---
+
+## 🌍 My Universe
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="380"/>
+</p>
+
+<p align="center">
+  <b>🌌 Exploring technology beyond boundaries</b><br/>
+  <i>Frontend • Backend • AI • Systems • Design</i>
+</p>
+
+<p align="center">
+  <a href="https://your-3d-globe-link.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Launch_3D_Earth-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  </a>
+</p>
+
+> ⚠️ GitHub doesn’t support real 3D.  
+> 👉 Click **Launch 3D Earth** for the full interactive experience.
 
 ---
 
 ## 🧠 About Me
 
-🎓 **Computer Engineering Undergraduate (B.E.)**  
-🎨 **Frontend Designer with Backend Logic Mastery**  
-🤖 **AI, LLMs & Autonomous Agents Enthusiast**  
+🎓 **B.E. Computer Engineering Student**  
+🎨 **Creative Frontend Designer**  
+⚙️ **Backend Logic Engineer**  
+🤖 **AI & Autonomous Agent Enthusiast**
 
-I’m someone who loves **designing elegant interfaces**, **engineering scalable systems**, and **experimenting with future-ready technologies**.  
-I believe **great products are born when creativity meets logic**.
+I design **interfaces that feel alive**,  
+build **systems that scale**,  
+and experiment with **future-first technologies**.
 
-💡 Known among friends as the **“Idea Machine”** — always thinking, building, and improving.
-
----
-
-## ⚡ What I Actually Do
-
-🖌 **Frontend Engineering**
-- Craft clean, responsive, and animated UIs
-- Focus on accessibility & user experience
-- Love working with modern design systems
-
-⚙️ **Backend Development**
-- Design scalable APIs & databases
-- Build efficient business logic
-- Authentication, authorization & integrations
-
-🤖 **AI & Future Tech**
-- AI chatbots, automation tools & agents
-- LLM-based applications & RAG systems
-- Exploring ethical & human-centric AI
+💡 Nicknamed the **“Idea Machine”** — because innovation never sleeps.
 
 ---
 
-## 🧩 Interactive Zone (Yes, this README has fun too 😄)
+## ⚡ What I Build
 
-🎮 **Mini Games**
-- 🟦 Tetris (Coming Soon)
-- 🐍 Snake Game (Planned)
-- ♟ Chess Bot (AI-powered)
+🖌 **Frontend**
+- Clean UI, smooth animations
+- Accessibility & UX-first design
+- Modern frameworks & 3D visuals
 
-📈 **Live Widgets**
-- Contribution heatmaps
-- Dynamic GitHub stats
-- Animated skill indicators
+⚙️ **Backend**
+- Secure APIs
+- Efficient databases
+- Scalable system architecture
+
+🤖 **AI Systems**
+- Chatbots & assistants
+- RAG-based applications
+- AI automation tools
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-`Java` `JavaScript` `TypeScript` `Python` `C` `C++` `C#` `Rust`
-
-### 🎨 Frontend
-`HTML` `CSS` `React` `Next.js` `Vue.js`  
-`Tailwind CSS` `Three.js` `WebGL` `Figma`
-
-### ⚙️ Backend
-`Node.js` `Express.js` `NestJS`  
-`Django` `.NET` `REST APIs`
-
-### 🧠 AI / ML
-`TensorFlow` `PyTorch` `LangChain`  
-`OpenAI APIs` `NumPy` `Pandas`
-
-### ☁️ Cloud & DevOps
-`AWS` `Azure` `Google Cloud`  
-`Docker` `Firebase` `Netlify`
-
-### 🧰 Tools
-`Git` `GitHub` `GitLab`  
-`VS Code` `Postman` `Jupyter Notebook`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,threejs,nodejs,express,nestjs,python,django,java,c,cpp,rust,docker,aws,gcp,git,github,figma,tensorflow,pytorch" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **AI-Powered Complaint Triage System**  
-> Automatically categorizes, prioritizes & routes complaints using AI
+🧠 **AI Complaint Triage System**  
+→ Auto-classification, priority detection, analytics dashboard
 
-🔹 **AI Customer Support Chatbot**  
-> Built using GPT models with contextual understanding
+🤖 **AI Support Chatbot**  
+→ Context-aware, GPT-powered assistant
 
-🔹 **Full-Stack E-Commerce Platform**  
-> Modern UI + secure backend architecture
+🛒 **Full-Stack E-Commerce Platform**  
+→ Secure backend + modern frontend
 
-🔹 **Personal Portfolio Website**  
-> 3D animations, interactive sections & clean UX
+🌐 **3D Portfolio Website**  
+→ Interactive globe, animations, immersive UI
 
 ---
 
 ## 📚 Currently Learning
 
-📌 Advanced **LLMs & Reinforcement Learning**  
-📌 **Cloud Architecture & DevOps Pipelines**  
-📌 **UI/UX Psychology & HCI Principles**
-
----
-
-## 🌍 Future Vision
-
-🤖 **AI & Autonomous Agents will redefine software**  
-My mission is to **build ethical, scalable, and human-first AI systems** that solve real problems and create meaningful impact.
+- Advanced **LLMs & Reinforcement Learning**
+- **Cloud Architecture & DevOps**
+- **UI/UX Psychology & HCI**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -127,38 +111,26 @@ My mission is to **build ethical, scalable, and human-first AI systems** that so
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 📧 **Email:** atharvnavatre183@gmail.com  
 🐦 **Twitter/X:** https://x.com/AtharvNava39873  
-💼 **LinkedIn:** https://www.linkedin.com/in/atharv-navatre-1201662b1/  
-🌐 **Portfolio:** *In Progress*
-
----
-
-## 💬 Quote I Live By
-
-> **“The best way to predict the future is to create it.”**  
-> — Peter Drucker
+💼 **LinkedIn:** https://www.linkedin.com/in/atharv-navatre-1201662b1/
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Atharv-navatre&icon=3&color=7" />
+  <img src="https://visitcount.itsvg.in/api?id=Atharv-navatre&icon=5&color=6"/>
 </p>
 
 <p align="center">
-  <b>🚀 Let’s build the future — one commit at a time.</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <b>✨ Crafting the future, one commit at a time ✨</b>
 </p>
