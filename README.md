@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="55%" valign="center">
       <h3>👨‍💻 About Me</h3>
       <p>
         I am a <b>Computer Engineering Student</b> with the mindset of a digital artisan. I don't just write code; I craft ecosystems where <b>Design meets Logic</b>.
@@ -45,8 +45,8 @@
         🧠 HCI & UX Psychology
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%"/>
+    <td width="45%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmbWhkOGg4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4/xT9IgN8YKBlYc7f9Xa/giphy.gif" width="100%" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="stats graph" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
       </td>
     </tr>
   </table>
