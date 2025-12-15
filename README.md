@@ -44,15 +44,15 @@
         ⚛️ Cloud Native DevOps (AWS/Docker)<br/>
         🧠 HCI & UX Psychology
       </p>
-   <td width="40%" align="center">
-  <a href="https://app.spline.design/file/5bb8cf41-3906-44b7-a4b2-d627bdb9a875" target="_blank">
-    <img src="https://media.giphy.com/media/L1R1TVThqceK6M8dX/giphy.gif" width="100%" style="border-radius: 10px;" alt="Spline 3D Design"/>
+   <td width="45%" align="center">
+  <a href="https://lottiefiles.com/free-animation/little-power-robot-BtnSKUJQgN">
+    <img src="https://media.giphy.com/media/QvBoMEcQhDdyXRiySp/giphy.gif" width="100%" alt="AI Robot Assistant" style="border-radius: 10px;"/>
   </a>
-  
+
   <br/>
-  
-  <a href="https://app.spline.design/file/5bb8cf41-3906-44b7-a4b2-d627bdb9a875" target="_blank">
-     <img src="https://img.shields.io/badge/🎨_Interact_in_3D-000000?style=for-the-badge&logo=spline&logoColor=white"/>
+
+  <a href="mailto:atharvnavatre183@gmail.com">
+    <img src="https://img.shields.io/badge/🤖_Hire_Agent-Active-success?style=for-the-badge&logo=robot-framework&logoColor=white"/>
   </a>
 </td>
   </tr>
