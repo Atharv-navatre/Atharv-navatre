@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/🚀_Launch_3D_Earth-212121?style=for-the-badge&logo=three.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌌_Enter_3D_Realm-7957d5?style=for-the-badge&logo=three.js&logoColor=white"/>
   </a>
 </div>
 
@@ -46,7 +46,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%"/>
+     <img src="https://media.giphy.com/media/26tP7axeYc7T3b8KQ/giphy.gif" width="100%" style="border-radius: 10px;" alt="Holographic Earth"/>
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="stats graph" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+       <img src="https://streak-stats.demolab.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph"/>
       </td>
     </tr>
   </table>
@@ -131,10 +131,9 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharv-navatre&theme=tokyonight" />
 </div>
 
----
 
 <div align="center">
   
