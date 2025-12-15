@@ -46,7 +46,7 @@
       </p>
    <td width="45%" align="center">
   <a href="https://lottiefiles.com/free-animation/little-power-robot-BtnSKUJQgN">
-    <img src="https://media.giphy.com/media/QvBoMEcQhDdyXRiySp/giphy.gif" width="100%" alt="AI Robot Assistant" style="border-radius: 10px;"/>
+    <img src="[https://media.giphy.com/media/QvBoMEcQhDdyXRiySp/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnltemVkcWJma2txYmtneWczMzVhemZ2YjBzamVmbDlvcWY1a2J4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K9F1HyHov69gwfEb4e/giphy.gif)" width="100%" alt="AI Robot Assistant" style="border-radius: 10px;"/>
   </a>
 
   <br/>
