@@ -1,22 +1,174 @@
-# 💫 About Me:
-👋 Hi, I’m Atharv Navatre  <br>🎨 A passionate Frontend Designer and Backend Logic Enthusiast  <br>🚀 Currently pursuing my B.E. in Computer Engineering  <br>🌱 Always learning, always growing, and always curious about the future of technology!  <br><br>---<br><br>### 💡 What I Do  <br>- 🖌️ Frontend Design: I love creating visually appealing and user-friendly interfaces that make technology accessible to everyone.  <br>- ⚙️ Backend Logic: I enjoy solving complex problems and building scalable, efficient systems that power the frontend.  <br>- 🤖 AI & Future Tech: I’m deeply fascinated by the potential of Artificial Intelligence and AI Agents to revolutionize industries and improve lives.  <br><br>---<br><br>### 🌟 Collaboration Goals  <br>💞️ I’m looking to collaborate on projects that combine creativity and logic. Whether it’s building a sleek UI, optimizing backend systems, or exploring AI-driven solutions, I’m all in!  <br>🔍 My focus is on concentration, innovation, and creating meaningful impact through technology.  <br><br>---<br><br>### 📫 How to Reach Me  <br>📧 Email: [atharvnavatre183@gmail.com]
-<br>🐦 Twitter: [https://x.com/AtharvNava39873]  <br>💼 LinkedIn: [https://www.linkedin.com/in/atharv-navatre-1201662b1/]  <br>🌐 Portfolio: [Processed]  <br><br>---<br><br>### 😄 Pronouns  <br>⚖️ Stable (Stable + Able = Stable, because I’m both stable and capable!)  <br><br>---<br><br>### ⚡ Fun Fact  <br>👫 My friends call me the “Idea Machine” because I’m always brainstorming new ideas and solutions. I believe innovation starts with curiosity!  <br><br>---<br><br>### 🚀 Future Vision  <br>🤖 AI & AI Agents: The future of technology lies in Artificial Intelligence and Autonomous Agents. From Generative AI to Reinforcement Learning, the possibilities are endless.  <br>🌍 My Goal: To contribute to the development of ethical, innovative, and human-centric AI solutions that empower individuals and transform industries.  <br><br>---<br><br>### 🛠️ Skills & Tools  <br>- Frontend: HTML, CSS, JavaScript, React, Figma, Tailwind CSS  <br>- Backend: Node.js, Python, SQL, MongoDB, REST APIs  <br>- AI/ML: TensorFlow, PyTorch, OpenAI APIs, LangChain  <br>- Tools: Git, Docker, VS Code, Postman, Jupyter Notebook  <br>- Cloud: AWS, Azure, Google Cloud  <br><br>---<br><br>### 📚 Currently Learning  <br>- Advanced AI concepts like Large Language Models (LLMs) and Reinforcement Learning  <br>- Cloud Computing and DevOps practices  <br>- UI/UX Design Principles and Human-Computer Interaction  <br><br>---<br><br>### 🌐 Projects & Contributions  <br>- Built a AI-powered chatbot for customer support using OpenAI’s GPT models.  <br>- Developed a full-stack e-commerce platform with React and Node.js.  <br>- Created a personal portfolio website showcasing my projects and skills.  <br><br>---<br><br>### 💬 Let’s Connect!  <br>I’m always open to discussing new ideas, collaborating on projects, or just having a chat about technology and the future. Feel free to reach out!  <br><br>---<br><br>### 🚀 Quote I Live By  <br>“The best way to predict the future is to create it.” – Peter Drucker  <br><br>---<br><br>Let’s build the future together! 🌟  <br>Looking forward to connecting with like-minded individuals and creating something amazing. 😊  <br><br>---<br><br>
+<!-- ========================= -->
+<!--   ATHARV NAVATRE README   -->
+<!-- ========================= -->
 
+<h1 align="center">Hey 👋, I'm Atharv Navatre</h1>
+<h3 align="center">Frontend Architect • Backend Logic Engineer • AI Explorer</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Atharv-navatre&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-navatre&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <i>Designing clean interfaces, engineering solid logic, and building the future with AI.</i>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Atharv-navatre&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:atharvnavatre183@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/atharv-navatre-1201662b1/">💼 LinkedIn</a> •
+  <a href="https://x.com/AtharvNava39873">🐦 Twitter (X)</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atharv-navatre&icon=3&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I’m **Atharv Navatre**, a Computer Engineering undergraduate with a strong passion for **frontend engineering**, **backend system design**, and **AI-powered applications**.
+
+I enjoy working at the intersection of:
+- **Design & Engineering**
+- **Creativity & Logic**
+- **User Experience & System Performance**
+
+I believe great software is not just built — **it’s engineered with intent, clarity, and impact**.
+
+---
+
+## 🧠 What I Specialize In
+
+### 🎨 Frontend Engineering
+- Crafting clean, modern, and responsive UIs
+- Strong focus on usability, accessibility, and performance
+- Translating complex ideas into simple user experiences
+
+### ⚙️ Backend Logic & Systems
+- Designing scalable APIs and backend workflows
+- Writing efficient, maintainable server-side logic
+- Integrating databases, authentication, and cloud services
+
+### 🤖 AI & Future Technologies
+- AI-powered applications & intelligent automation
+- LLM-based systems, AI agents, and smart workflows
+- Passionate about **ethical, human-centric AI**
+
+---
+
+## 🎯 Collaboration & Vision
+
+💡 I’m open to collaborating on:
+- Full-stack applications
+- AI-driven platforms
+- Innovative developer tools
+- Research-oriented or impact-focused tech projects
+
+I value:
+- **Focus**
+- **Innovation**
+- **Long-term thinking**
+- **Clean engineering practices**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+`Java` `JavaScript` `TypeScript` `Python` `C` `C++` `C#` `Rust`
+
+### 🌐 Frontend
+`HTML` `CSS` `React` `Next.js` `Vue.js` `Angular`  
+`Tailwind CSS` `Three.js` `WebGL` `React Native`
+
+### 🔧 Backend
+`Node.js` `Express.js` `NestJS`  
+`Django` `.NET` `REST APIs`
+
+### 🧠 AI / ML
+`TensorFlow` `PyTorch` `LangChain`  
+`OpenAI APIs` `NumPy` `Pandas` `Keras`
+
+### ☁️ Cloud & DevOps
+`AWS` `Google Cloud` `Azure`  
+`Docker` `Firebase` `Netlify`
+
+### 🧰 Tools
+`Git` `GitHub` `GitLab`  
+`Postman` `VS Code` `Jupyter Notebook`  
+`Figma` `Canva`
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **Large Language Models (LLMs)**
+- **Reinforcement Learning**
+- Cloud-native architectures & DevOps
+- UI/UX psychology & Human–Computer Interaction
+
+---
+
+## 🧪 Selected Projects
+
+- 🤖 **AI-Powered Customer Support Chatbot**  
+  Intelligent conversation system using GPT-based models
+
+- 🛒 **Full-Stack E-Commerce Platform**  
+  React + Node.js with authentication, payments & admin dashboard
+
+- 🌐 **Personal Portfolio Website**  
+  Performance-focused, animated, and fully responsive
+
+> _More projects coming soon — building in public._
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Atharv-navatre&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-navatre&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-navatre&theme=radical&margin-w=8" />
+</p>
+
+---
+
+## 🔥 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Atharv-navatre&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> Friends call me the **“Idea Machine”** — I rarely stop thinking, optimizing, or imagining what’s next.
+
+---
+
+## 💬 Quote I Live By
+
+> **“The best way to predict the future is to create it.”**  
+> — Peter Drucker
+
+---
+
+<p align="center">
+  <b>Let’s build something meaningful.</b><br/>
+  Open to ideas, collaboration, and deep tech conversations 🚀
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Atharv-navatre&icon=3&color=7" />
+</p>
+
+<!-- Proudly crafted with intent, not templates -->
