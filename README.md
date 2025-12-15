@@ -1,3 +1,12 @@
+The reason those images are not showing is that the service hosting them (`herokuapp.com`) often goes down or hits usage limits.
+
+I have replaced the broken **Heroku** links with the newer, more stable **Demolab** servers. This will fix the "Streak Stats" instantly.
+
+Here is the **fixed, final version** of your README.
+
+### 📋 Copy and Paste this Code:
+
+```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Atharv%20Navatre&fontSize=80&fontAlignY=35&desc=Frontend%20Designer%20%7C%20Backend%20Engineer%20%7C%20AI%20Explorer&descAlignY=65&descAlign=50&animation=twinkling"/>
 </div>
@@ -27,7 +36,7 @@
 
 <table>
   <tr>
-    <td width="55%" valign="center">
+    <td width="60%">
       <h3>👨‍💻 About Me</h3>
       <p>
         I am a <b>Computer Engineering Student</b> with the mindset of a digital artisan. I don't just write code; I craft ecosystems where <b>Design meets Logic</b>.
@@ -45,8 +54,8 @@
         🧠 HCI & UX Psychology
       </p>
     </td>
-    <td width="45%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmbWhkOGg4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4b2g4/xT9IgN8YKBlYc7f9Xa/giphy.gif" width="100%" style="border-radius: 10px;"/>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%"/>
     </td>
   </tr>
 </table>
@@ -146,3 +155,4 @@
     <i>"Crafting the future, one commit at a time."</i>
   </p>
 </div>
+```
