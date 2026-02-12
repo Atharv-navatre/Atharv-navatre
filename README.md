@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Atharv%20Navatre&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Learner%20%7C%20Java%20DSA%20Journey%20%7C%20AI%20Explorer&descAlignY=65&descAlign=50&animation=twinkling"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Atharv%20Navatre&fontSize=70&fontColor=36BCF7&animation=fadeIn&desc=Hi%20👋%20I’m%20Atharv%20—%20code%20solve%20evolve&descAlignY=70"/> </div>
+
 
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=35CE8D&center=true&vCenter=true&width=850&lines=Building+Skills+Step+by+Step+🚀;Full+Stack+%7C+DSA+%7C+AI+Learning+Path;Consistency+%3E+Perfection" />
@@ -54,40 +53,58 @@ Currently focused on building strong fundamentals in:
 
 ## 🧰 Skills & Learning Areas
 
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🌐 Web
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind" /><br/>
+
+<i>Improving full-stack development through real projects.</i>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 DSA Java
+<img src="https://skillicons.dev/icons?i=java" /><br/>
+
+<i>Following Pratush Sheet & Striver A-to-Z side by side.</i>
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 Aptitude
+<img src="https://img.shields.io/badge/Logical%20Reasoning-%23007ACC.svg?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quantitative%20Aptitude-%23FF6F00.svg?style=for-the-badge"/> 
+
+<i>Improving logical thinking for placements.</i>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br/>
+
+<i>Exploring AIML, GenAI & AI Engineering stack.</i>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,git,github,vscode" />
-
----
-
-### 🧠 DSA (Java)
-<img src="https://skillicons.dev/icons?i=java" />
-
-Following Pratush Sheet • Java DSA Patterns • Striver A-to-Z Journey
-
----
-
-### 📊 Aptitude & Problem Solving
-<img src="https://img.shields.io/badge/Logical%20Reasoning-%23007ACC.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Quantitative%20Aptitude-%23FF6F00.svg?style=for-the-badge"/>
-
-Preparing for placement aptitude and problem-solving rounds.
-
----
-
-### 🤖 AI / ML & GenAI
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-Artificial Intelligence & Machine Learning  
-Python & Data Fundamentals  
-Machine Learning & Deep Learning (Learning Phase)  
-Generative AI (GenAI)  
-AI Engineering Stack  
+💡 Always looking to grow new skills, deep dive into meaningful projects, and build real-world solutions step by step.
 
 </div>
 
----
+
 
 ## 🚀 Projects & Learning Direction
 
@@ -101,21 +118,43 @@ Additional sessions by AI professionals included in learning roadmap.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Telemetry Data
 
 <div align="center">
-<img src="http://ghchart.rshah.org/35CE8D/Atharv-navatre" width="100%" />
+  <img src="http://ghchart.rshah.org/35CE8D/Atharv-navatre" alt="Atharv's Github Chart" width="100%" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=tokyonight&hide_border=true&show_icons=true" height="160"/>
-<img src="https://streak-stats.demolab.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-navatre&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Atharv-navatre&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="stats graph" />
+      </td>
+      <td>
+       <img src="https://streak-stats.demolab.com?user=Atharv-navatre&theme=tokyonight&hide_border=true" height="160" alt="streak graph"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-navatre&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 ---
 
+## 🏆 Achievements
+
 <div align="center">
-<i>Learning • Building • Improving — One Commit at a Time</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharv-navatre&theme=tokyonight" />
+</div>
+
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=Atharv-navatre&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  
+  <p>
+    <i>"Crafting the future, one commit at a time."</i>
+  </p>
 </div>
