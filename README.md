@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Engineering;Product+Manager"/>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=800&color=35CE8D&center=true&vCenter=true&width=850&lines=Building+Tomorrow+With+Code+🚀;Designing+Interfaces+That+Feel+Alive+🎨;alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=800&color=35CE8D&center=true&vCenter=true&width=850&lines=Building+Tomorrow+With+Code+🚀;Designing+Interfaces+That+Feel+Alive+🎨;Architect+Building+Consistency+of+Practicing/>
 
 </p>
 
