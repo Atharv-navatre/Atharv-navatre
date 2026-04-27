@@ -838,16 +838,16 @@ const APPS = [
   { name: 'Instagram', icon: '📸', color: '#e1306c' },
   { name: 'Snapchat',  icon: '👻', color: '#fffc00' },
   { name: 'WhatsApp',  icon: '💬', color: '#25d366' },
-  { name: 'YouTube',   icon: '▶️',  color: '#ff0000' },
+  { name: 'YouTube',   icon: '▶️', color: '#ff0000' },
   { name: 'Twitter/X', icon: '🐦', color: '#1da1f2' },
   { name: 'TikTok',    icon: '🎵', color: '#69c9d0' },
 ];
 
 const CHALLENGES = [
   // Math
-  { type: 'math', q: () => { const a=rnd(10,50),b=rnd(10,50); return { text:`What is ${a} × ${b}?`, ans: String(a*b) }; } },
+  { type: 'math', q: () => { const a=rnd(10,50),b=rnd(10,50); return { text:`What is ${a} * ${b}?`, ans: String(a*b) }; } },
   { type: 'math', q: () => { const a=rnd(100,999),b=rnd(10,99); return { text:`What is ${a} + ${b}?`, ans: String(a+b) }; } },
-  { type: 'math', q: () => { const a=rnd(20,100),b=rnd(1,a); return { text:`What is ${a} − ${b}?`, ans: String(a-b) }; } },
+  { type: 'math', q: () => { const a=rnd(20,100),b=rnd(1,a); return { text:`What is ${a} - ${b}?`, ans: String(a-b) }; } },
   // Study affirmation
   { type: 'type', q: () => ({ text: 'Type: "I choose focus over distraction"', ans: 'I choose focus over distraction' }) },
   { type: 'type', q: () => ({ text: 'Type: "My study matters more than scrolling"', ans: 'My study matters more than scrolling' }) },
@@ -972,9 +972,11 @@ function showToast(msg) {
 }
 
 /* ─────────────── DAILY RESET CHECK ─────────────── */
-// Remove old day's data keys (keep last 7 days to avoid stale localStorage)
+// Remove stale localStorage keys; keep the last DAYS_TO_KEEP days, purge up to CLEANUP_RANGE days back
+const DAYS_TO_KEEP  = 7;
+const CLEANUP_RANGE = 30;
 (function cleanup() {
-  for (let i = 8; i <= 30; i++) {
+  for (let i = DAYS_TO_KEEP + 1; i <= CLEANUP_RANGE; i++) {
     const d = new Date(Date.now() - i * 86400000).toISOString().slice(0, 10);
     ['stats','tasks','sessions','log'].forEach(k => localStorage.removeItem(`fz_${k}_${d}`));
   }
